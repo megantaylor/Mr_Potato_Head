@@ -49,6 +49,9 @@ h1 {
 
 
 /* Insert CSS for eyebrows below this line*/
+  #eyebrows_image {
+    top:90px; left:110px;
+    }
 
 
 
@@ -59,6 +62,9 @@ h1 {
 
 
 /* Insert CSS for hat below this line*/
+#hat_image {
+  top:5px; left:100px
+}
 
 
 
