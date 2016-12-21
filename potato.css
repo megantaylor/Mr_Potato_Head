@@ -67,7 +67,9 @@ h1 {
 
 
 /* Insert CSS for glasses below this line*/
-
+#glasses_image{
+  top:74px; left:100px;
+}
 
 
 
@@ -110,7 +112,7 @@ h1 {
 
 
 /* Insert CSS for hatflower below this line*/
-
+#hatflower{left:99px;
 
 
 
