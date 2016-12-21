@@ -3,7 +3,7 @@ h1 {
 }
 
 
-#potato {
+#potato { 
   position: relative;
   width: 367px;
   height: 500px;
@@ -30,11 +30,17 @@ h1 {
 
 /* Insert CSS for ears below this line*/
 
-
+#ears_image {
+  top: 85px;
+  left: 58px;
+}
 
 
 /* Insert CSS for eyes below this line*/
-
+#eyes_image {
+  top: 80px;
+  left: 133px;
+}
 
 
 
