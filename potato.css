@@ -3,7 +3,7 @@ h1 {
 }
 
 
-#potato {
+#potato { 
   position: relative;
   width: 367px;
   height: 500px;
@@ -30,16 +30,26 @@ h1 {
 
 /* Insert CSS for ears below this line*/
 
-
+#ears_image {
+  top: 85px;
+  left: 58px;
+}
 
 
 /* Insert CSS for eyes below this line*/
-
+#eyes_image {
+  top: 80px;
+  left: 133px;
+}
 
 
 
 /* Insert CSS for mouth below this line*/
-
+#mouth_image {
+  width:100px;
+  height:100px;
+  top:180px; left:140px;
+}
 
 
 
@@ -49,6 +59,9 @@ h1 {
 
 
 /* Insert CSS for eyebrows below this line*/
+  #eyebrows_image {
+    top:90px; left:110px;
+    }
 
 
 
@@ -61,6 +74,9 @@ h1 {
 
 
 /* Insert CSS for hat below this line*/
+#hat_image {
+  top:5px; left:100px
+}
 
 
 
